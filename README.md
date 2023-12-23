@@ -25,7 +25,8 @@ When I'm not coding or writing, I indulge in exploring design trends, experiment
 Feel free to explore my work and connect with me. I'm enthusiastic about collaborating on innovative projects and contributing engaging web solutions and compelling content!
 
 ## Aliza's Portfolio Website
-- [Aliza's Portfolio]((https://codecanvas-v2.netlify.app/))
+- [Personal Portfolio](https://codecanvas-v2.netlify.app/)
+
 
 #### Content Writing
 - Creative Writing
